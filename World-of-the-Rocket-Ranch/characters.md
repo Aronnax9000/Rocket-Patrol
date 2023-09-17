@@ -1,3 +1,3 @@
-[Rocket Ranch Home] 
+[Rocket Ranch Home](..)
 
 # Characters
