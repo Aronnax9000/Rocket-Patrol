@@ -1,5 +1,7 @@
 # Rocket Ranch: The Captain Bender Adventures
 
+Welcome to the world of the Rocket Ranch!
+
 ## The Adventures
 - [SLAM!](Slam)
 - [Jurassic Pouch](Jurassic-Pouch)
