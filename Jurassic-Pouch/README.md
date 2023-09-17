@@ -20,5 +20,5 @@ Table of Contents
 - [Chapter Sixteen: Earth Under the Macropods](ch16.md)
 - [Chapter Seventeen: The Blue Helmets](ch17.md)
 - [Chapter Eighteen: The Isle of Youth](ch18.md)
-- [Chapter Nineteen: ](ch19.md)
+- [Chapter Nineteen: The Gamers of Loretto](ch19.md)
 - [Chapter Twenty: ](ch20.md)
