@@ -14,6 +14,10 @@ Large animal veteran
 
 Wallabologist.
 
+## Lil Pooper
+
+Wallaby, descendent of Soviet-era Cuban uplift experiments.
+
 ## MaryLiz
 
 ## Merl
