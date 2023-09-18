@@ -4,7 +4,7 @@
 
 ## Time
 
-80 to 100 years in the future (late 21st, early 22nd century)
+80 to 100 years in the future (late 21st, early 22nd century). As in ST:TOS, no concrete dates are given. (Future proofing).
 
 ## Place
 
