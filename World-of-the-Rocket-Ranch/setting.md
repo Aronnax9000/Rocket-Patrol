@@ -17,3 +17,7 @@ In general, the technology of the Rocket Ranch is more 2001 than Star Trek. Tech
 By the time of speaking, controlled fusion allows spaceflight under continuous acceleration (like The Expanse, but not as powerful).
 
 Quantum computing is a reality, but plenty of computation still happens on silicon. 
+
+# Tone
+
+Optimistic, but realistic. The Rocket Ranchers live in our world, with divorce, famine, and genocide all part of it. There are no political conservatives on the Rocket Patrol, only engineering conservatives (Star Trek's Scotty, or Clarke's "Rescue Party").
