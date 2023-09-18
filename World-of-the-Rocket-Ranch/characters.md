@@ -42,6 +42,12 @@ Wallaby, descendent of Soviet-era Cuban uplift experiments. Good for stealing ca
 
 ## Merl
 
+Head ranch hand. Reports to Frances.
+
+The Rawhide (from "Buckaroo Banzai") of the piece. Jules Verne's action hero, e.g. Ned Land in 20,000 Leagues. Merl's past is shrouded in mystery. Merl joined the Rocket Ranch after the car Merl was driving broke down a mile away. Merl checked into the Rocket Ranch and never left. 
+
+Is the one to say "now wait a minute!" to the scientists and engineers of the Ranch, and ask for clarification. More often than not, Merl's questions lead to new insights, or termination of dead areas of inquiry, from the other members of the team. Everyone knows that about Merl, which is why everyone gets so quiet when they hear the sound of Merl's voice.
+
 ## Rad
 
 Rover, raver, coffee addict, and assigned head of the Solar System's timekeeping standards authority. Like DJ Qualls in The Core, can hack into anything, but has parties to attend, unlike DJ Qualls. Is on good terms with the Gamers of Loretto, an old convent of LGBTQ+ friendly "Sisters" in Loretto, Kentucky.
