@@ -38,7 +38,9 @@ Tech officer aboard Inanna-7. Wants to help. All the time. Knows they can help, 
 
 Wallaby, descendent of Soviet-era Cuban uplift experiments. Good for stealing cameras, overall cuteness, and kicking the stuffing out of mission-critical systems on its first foray into microgravity.
 
-## MaryLiz
+## MaryLiz Bender
+
+Leader of the Rocket Patrol. Named for an ancestor born in the 20th century.  
 
 ## Merl
 
@@ -52,3 +54,6 @@ Is the one to say "now wait a minute!" to the scientists and engineers of the Ra
 
 Rover, raver, coffee addict, and assigned head of the Solar System's timekeeping standards authority. Like DJ Qualls in The Core, can hack into anything, but has parties to attend, unlike DJ Qualls. Is on good terms with the Gamers of Loretto, an old convent of LGBTQ+ friendly "Sisters" in Loretto, Kentucky.
 
+## Sem
+
+Class clown of the Inanna-7 mission. Highly OCD, which is part of why Bender chose them. Sem's OCD includes a compulsion to uplift the spirits of their crewmates.
