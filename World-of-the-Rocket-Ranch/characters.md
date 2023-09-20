@@ -38,7 +38,9 @@ Tech officer aboard Inanna-7. Wants to help. All the time. Knows they can help, 
 
 Wallaby, descendent of Soviet-era Cuban uplift experiments. Good for stealing cameras, overall cuteness, and kicking the stuffing out of mission-critical systems on its first foray into microgravity.
 
-## MaryLiz
+## MaryLiz Bender
+
+Leader of the Rocket Patrol. Named for an ancestor born in the 20th century.  
 
 ## Merl
 
