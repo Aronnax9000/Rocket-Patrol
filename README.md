@@ -13,3 +13,5 @@ Welcome to the world of the Rocket Ranch!
 - [Places](World-of-the-Rocket-Ranch/places.md)
 - [Things](World-of-the-Rocket-Ranch/things.md)
 - [Plot Ideas](World-of-the-Rocket-Ranch/plotideas.md)
+
+[Contributor License](LICENSE.md)
