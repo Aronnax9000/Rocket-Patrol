@@ -1,7 +1,7 @@
 # Rocket Ranch: The Captain Bender Adventures
 
 Welcome to the world of the Rocket Ranch!
-![Captain Bender on patrol](/img/rocket_patrol-4-cosmic_ranger.jpg "Captain Bender on patrol")
+![Captain Bender on patrol](/img/rocket_patrol-4-cosmic_ranger.jpg "Captain Bender on patrol") 
 
 ## The Adventures
 - [SLAM!](Slam)
