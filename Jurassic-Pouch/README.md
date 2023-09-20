@@ -1,7 +1,6 @@
 [Rocket Ranch Home](..)
 # Jurassic Pouch: a Captain Bender Adventure
-
-Table of Contents
+## Table of Contents 
 
 - [Chapter One: A Visitor from the Sky](ch01.md)
 - [Chapter Two: The Poop Talk](ch02.md)
