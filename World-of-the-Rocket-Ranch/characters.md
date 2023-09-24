@@ -50,6 +50,8 @@ The Rawhide (from "Buckaroo Banzai") of the piece. Jules Verne's action hero, e.
 
 Is the one to say "now wait a minute!" to the scientists and engineers of the Ranch, and ask for clarification. More often than not, Merl's questions lead to new insights, or termination of dead areas of inquiry, from the other members of the team. Everyone knows that about Merl, which is why everyone gets so quiet when they hear the sound of Merl's voice.
 
+Once sealed an oil well with a nuke, after it accidentally became Merl's judgement call, saving countless wildlife. The Rocket Ranchers are scarecely surprised when Merl casually brings these things up to suggest something picked up in practical work experience: even among polymaths, Merl has done practical work in the most different fields, and it turns out the Rocket Patrol ain't even Merl's first brainiac rodeo.
+
 ## PJ McClintock
 
 Cave scientist at WKU.
