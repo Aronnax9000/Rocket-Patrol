@@ -4,9 +4,9 @@
 
 ## Feliz
 
-## Frances
+## Frances Watson
 
-Large animal veteranarian, and handy person at the ranch. Doctor McCoy and Spock in one body, and knows it. Likes precision in language. Fiercely protective, especially of animal rights and the rights of those who cannot speak for themselves. 
+Large animal veteranarian, and handy person at the ranch. Doctor McCoy and Temple Grandin in one body, and knows it. Likes precision in language. Fiercely protective, especially of animal rights and the rights of those who cannot speak for themselves. 
 
 ## Gaby Pererra-Perez
 
@@ -49,6 +49,10 @@ Head ranch hand. Reports to Frances.
 The Rawhide (from "Buckaroo Banzai") of the piece. Jules Verne's action hero, e.g. Ned Land in 20,000 Leagues. Merl's past is shrouded in mystery. Merl joined the Rocket Ranch after the car Merl was driving broke down a mile away. Merl checked into the Rocket Ranch and never left. 
 
 Is the one to say "now wait a minute!" to the scientists and engineers of the Ranch, and ask for clarification. More often than not, Merl's questions lead to new insights, or termination of dead areas of inquiry, from the other members of the team. Everyone knows that about Merl, which is why everyone gets so quiet when they hear the sound of Merl's voice.
+
+## PJ McClintock
+
+Cave scientist at WKU.
 
 ## Rad
 
