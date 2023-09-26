@@ -1,7 +1,7 @@
 [Rocket Ranch Home](..)
 # Jurassic Pouch: a Captain Bender Adventure
 ## Table of Contents 
-### Part I: Texas
+### Part I: The Invaders
 
 - [Chapter One: A Visitor from the Sky](ch01.md)
 - [Chapter Two: The Poop Talk](ch02.md)
@@ -13,9 +13,6 @@
 - [Chapter Eight: Wallab-Eve](ch08.md)
 - [Chapter Nine: In the Wind](ch09.md)
 - [Chapter Ten: The Ghosts of Faro Bagdad](ch10.md)
-
-### Part III: Yucatán
-
 - [Chapter Eleven: Mérida](ch11)
 - [Chapter Twelve: The Yucatán Express](ch12.md)
 - [Chapter Thirteen: The Pool of Xblanque](ch13.md)
@@ -25,7 +22,7 @@
 - [Chapter Seventeen: The Blue Helmets](ch17.md)
 - [Chapter Eighteen: The Isle of Youth](ch18.md)
 
-Part III: The Caves of Yucatán
+### Part II: The Caves of Yucatán
 
 - [Chapter Nineteen: The Gamers of Loretto](ch19.md)
 - [Chapter Twenty: ](ch20.md)
