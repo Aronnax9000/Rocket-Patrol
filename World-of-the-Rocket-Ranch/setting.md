@@ -1,4 +1,4 @@
-[Rocket Ranch Home](..)
+[Rocket Patrol Home](..)
 
 # Setting
 
