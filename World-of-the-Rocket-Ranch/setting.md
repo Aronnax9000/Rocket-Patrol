@@ -21,3 +21,7 @@ Quantum computing is a reality, but plenty of computation still happens on silic
 # Tone
 
 Optimistic, but realistic. The Rocket Ranchers live in our world, with divorce, famine, and genocide all part of it. There are no political conservatives on the Rocket Patrol, only engineering conservatives (Star Trek's Scotty, or Clarke's "Rescue Party").
+
+## Pronouns
+
+In the world of the Rocket Patrol, gendered English pronouns are no longer used, see Marge Piercy's novel, "Woman on the Edge of Time".
