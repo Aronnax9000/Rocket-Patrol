@@ -28,5 +28,5 @@
 - [Chapter Twenty: ](ch20.md)
 - [Chapter Twenty-One: ](ch21.md)
 
-- ### Part III: Tomb of the Satellites
+### Part III: Tomb of the Satellites
 
