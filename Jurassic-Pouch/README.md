@@ -25,7 +25,7 @@
 ### Part II: The Caves of Yucatán
 
 - [Chapter Nineteen: The Gamers of Switten](ch19.md)
-- [Chapter Twenty: ](ch20.md)
+- [Chapter Twenty: The Cloister Cluster](ch20.md)
 - [Chapter Twenty-One: ](ch21.md)
 
 ### Part III: Tomb of the Satellites
