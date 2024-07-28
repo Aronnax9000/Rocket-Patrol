@@ -28,6 +28,7 @@
 - [Chapter Twenty: The Cloister Cluster](ch20.md)
 - [Chapter Twenty-One: Initiative](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
+- [Chapter Twenty-Three: The Cavers](ch23.md)
 
 ### Part III: Tomb of the Satellites
 
