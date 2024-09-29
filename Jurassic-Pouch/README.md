@@ -29,6 +29,7 @@
 - [Chapter Twenty-One: Initiative](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
 - [Chapter Twenty-Three: The Cavers](ch23.md)
+- [Chapter Twenty-Four: The Marcel Loubens](ch24.md)
 
 ### Part III: Tomb of the Satellites
 
