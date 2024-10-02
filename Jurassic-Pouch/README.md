@@ -30,6 +30,7 @@
 - [Chapter Twenty-Two: The Belt](ch22.md)
 - [Chapter Twenty-Three: The Cavers](ch23.md)
 - [Chapter Twenty-Four: The *Marcel Loubens*](ch24.md)
+- [Chapter Twenty-Five: *Le Garage*](ch25.md)
 
 ### Part III: Tomb of the Satellites
 
