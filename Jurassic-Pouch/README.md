@@ -31,6 +31,11 @@
 - [Chapter Twenty-Three: The Cavers](ch23.md)
 - [Chapter Twenty-Four: The *Marcel Loubens*](ch24.md)
 - [Chapter Twenty-Five: *Le Garage*](ch25.md)
+- [Chapter Twenty-Six: ](ch26.md)
+- [Chapter Twenty-Seven: ](ch27.md)
+- [Chapter Twenty-Eight: ](ch28.md)
+- [Chapter Twenty-Nine: ](ch29.md)
+- [Chapter Thirty: ](ch30.md)
 
 ### Part III: Tomb of the Satellites
 
