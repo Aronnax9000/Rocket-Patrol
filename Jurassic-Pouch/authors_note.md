@@ -2,7 +2,7 @@
 
 The world of the Rocket Ranch is set some 80 years into the future (hello, Posterity!) but not pinned to a specific date. 
 
-J. R. R. Tolkein said that in composing The Lord of the Rings, the primary motivation was to tell "a really long story". Jurassic Pouch is not a long story, though it is my longest, and my motivations are different. 
+J. R. R. Tolkein said that in composing The Lord of the Rings, the primary motivation was to tell "a really long story". Jurassic Pouch is not a long story, though it is my longest, and my motivation is different. 
 
 Many of my favorite science fiction stories ask the reader to permit faster than light travel, infinitely strong diamond space elevators, positing access to futuristic (and fantastic) technologies that almost certainly can never be. If the Starship Enterprise has no warp drive, there's no story, no strange new worlds within reach. 
 
