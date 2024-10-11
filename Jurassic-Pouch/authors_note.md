@@ -10,9 +10,11 @@ The fastest spaceship built in my time, the New Horizons probe, would take tens 
 
 We are even limited by the expanse of our own solar system, boldly explored in fiction by Lucian, Kepler, Rostand, Verne, Wells, Bradbury, Vonnegut, and Clarke. We are exploring the solar system with robotic probes, some of which, launched long ago but within living memory, still return data, now from the interstellar void past our Sun. But no one is going to walk on Venus any time soon. Or escape the hazards of artificial hibernation (and intelligence) to play among the moons of Jupiter (or Saturn).
 
-What's left? Our own planet, spinning in space. It is more than four billion years old. Life emerged in splendor pretty much as soon as it could have. We ourselves have stood upon it for less than a thousandth of that time. In our struggle to survive upon this planet, we invented technology. In our struggle to apprehend it, we invented, four centuries ago, the scientific method.
+What's left? Our own planet, spinning in space. It is more than four billion years old. Life emerged in splendor pretty much as soon as it could have. We ourselves have stood upon it for less than a thousandth of that time. In our struggle to survive upon this planet, we invented technology. In our struggle to apprehend it, we invented, a thousandth in turn of the time we've been here, the scientific method.
 
 This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of. It is our Pale Blue Dot, filled with wonders that continue to defy our best efforts to understand (and survive) it. At the same time, we leave our marks on this Earth, and this is a story about coming to understand and survive that, too.
+
+Captain Bender and her crew find themselves exploring an exotic alien world... it just happens to be the one they were all born on.
 
 I hope you like it.
 
