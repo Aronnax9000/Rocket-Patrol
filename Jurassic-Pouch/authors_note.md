@@ -6,7 +6,7 @@ J. R. R. Tolkein said that in composing The Lord of the Rings, the primary motiv
 
 Many of my favorite science fiction stories ask the reader to permit faster than light travel, infinitely strong diamond space elevators, positing access to futuristic (and fantastic) technologies that almost certainly can never be. If the Starship Enterprise has no warp drive, there's no story, no strange new worlds within reach. 
 
-The fastest spaceship built in my time, the New Horizons probe, would take tens of millenia to reach Proxima Centauri, nearest star to our own, if it were going there, which it is not. A future "Breakthrough Starshot" may one day take a few zeros off that travel time, but not enough to really matter. Our distant posterity might visit other stars, but we will not.
+The fastest spaceship built in my time, the New Horizons probe, would take tens of millennia to reach Proxima Centauri, nearest star to our own, if it were going there, which it is not. A future "Breakthrough Starshot" may one day take a few zeros off that travel time, but not enough to really matter. Our distant posterity might visit other stars, but we will not.
 
 We are even limited by the expanse of our own solar system, boldly explored in fiction by Lucian, Kepler, Rostand, Verne, Wells, Bradbury, Vonnegut, and Clarke. We are exploring the solar system with robotic probes, some of which, launched long ago but within living memory, still return data, now from the interstellar void past our Sun. But no one is going to walk on Venus any time soon. Or escape the hazards of artificial hibernation (and intelligence) to play among the moons of Jupiter (or Saturn).
 
