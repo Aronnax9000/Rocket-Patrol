@@ -1,5 +1,8 @@
 [Rocket Patrol Home](..)
 # Jurassic Pouch: a Captain Bender Adventure
+
+- [Author's Note](authors_note)
+
 ## Table of Contents 
 ### Part I: The Invaders
 
