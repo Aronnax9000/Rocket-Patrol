@@ -18,5 +18,5 @@ Captain Bender and crew find themselves exploring an exotic alien world, with "s
 
 I hope you like it.
 
--- Alan Canon
+Alan Canon  
 Louisville, Kentucky. 
