@@ -14,7 +14,7 @@ What's left? Our own planet, spinning in space. It is more than four billion yea
 
 This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of. It is our Pale Blue Dot, filled with wonders that continue to defy our best efforts to understand (and survive) it. At the same time, we leave our marks on this Earth, and this is a story about coming to understand and survive that, too.
 
-Captain Bender and her crew find themselves exploring an exotic alien world... it just happens to be the one they were all born on.
+Captain Bender and crew find themselves exploring an exotic alien world, with "splendor beyond compare" (Porco). It just happens to be the planet we, and they, were all born on.
 
 I hope you like it.
 
