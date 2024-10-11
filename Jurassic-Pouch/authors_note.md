@@ -8,13 +8,11 @@ Many of my favorite science fiction stories ask the reader to permit faster than
 
 The fastest spaceship built in my time, the New Horizons probe, would take tens of millenia to reach Proxima Centauri, nearest star to our own, if it were going there, which it is not. A future "Breakthrough Starshot" may one day take a few zeros off that travel time, but not enough to really matter. Our distant posterity might visit other stars, but we will not.
 
-We are even limited by the expanse of our own solar system, boldly explored in fiction by Lucian, Kepler, Rostand, Verne, Wells, Vonnegut, and Clarke. Indeed, we are already exploring the solar system with robotic probes, some of which, launched long ago but within living memory, still return data, now from the interstellar void past our Sun.
+We are even limited by the expanse of our own solar system, boldly explored in fiction by Lucian, Kepler, Rostand, Verne, Wells, Bradbury, Vonnegut, and Clarke. We are exploring the solar system with robotic probes, some of which, launched long ago but within living memory, still return data, now from the interstellar void past our Sun. But no one is going to walk on Venus any time soon. Or escape the hazards of artificial hibernation (and intelligence) to play among the moons of Jupiter (or Saturn).
 
-As surely as we won't visit Proxima Centauri, no one is going to walk on Venus any time soon. Or escape the hazards of artificial hibernation (and intelligence) to play among the moons of Jupiter (or Saturn).
+What's left? Our own planet, spinning in space. It is more than four billion years old. Life emerged in splendor pretty much as soon as it could have. We ourselves have stood upon it for less than a thousandth of that time. In our struggle to survive upon this planet, we invented technology. In our struggle to apprehend it, we invented, four centuries ago, the scientific method.
 
-What's left? Our own planet, spinning in space. It is 4.3 billion years old, and we have stood upon it for perhaps 1/1000th of that time. In our struggle to survive upon it, we invented technology. In our struggle to apprehend it, we invented, quite recently, the scientific method.
-
-This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of, filled with wonders that may defy our best efforts to understand (and survive) it, for aeons to come.
+This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of. It is our Pale Blue Dot, filled with wonders that continue to defy our best efforts to understand (and survive) it. At the same time, we leave our marks on this Earth, and this is a story about coming to understand and survive that, too.
 
 I hope you like it.
 
