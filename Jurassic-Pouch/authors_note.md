@@ -1,0 +1,20 @@
+# Author's Note
+
+The world of the Rocket Ranch is set some 80 years into the future (hello, Posterity!) but not pinned to a specific date. 
+
+J. R. R. Tolkein said that in composing The Lord of the Rings, the primary motivation was to tell "a really long story". Jurassic Pouch is not a long story, though it is my longest, and my motivations are different. 
+
+Many of my favorite science fiction stories ask the reader to permit faster than light travel, infinitely strong diamond space elevators, positing access to futuristic (and fantastic) technologies that almost certainly can never be. I still love reading them, even when I know the reason that the Starship Enterprise has warp drive is because otherwise, there's no story, no strange new worlds within reach. The fastest spaceship built in my time, the New Horizons probe, would take tens of millenia to reach Proxima Centauri, nearest star to our Sun, even if it had been aimed there, which it was not. Programs along the lines of Breakthrough Starshot may one day take a few zeros off that travel time, but not enough to really matter. Our distant posterity may visit other stars, but we cannot.
+
+We are even limited by the expanse of our own solar system, boldly explored in fiction by Lucian, Kepler, Rostand, Verne, Wells, Vonnegut, and Clarke. Indeed, we are already exploring the solar system with robotic probes, some of which, launched long ago but within living memory, still return data, now from the interstellar void past our Sun.
+
+As surely as we won't visit Proxima Centauri, no one is going to walk on Venus any time soon. Or escape the hazards of artificial hibernation (and intelligence) to play among the moons of Jupiter (or Saturn).
+
+What's left? Our own planet, spinning in space. It is 4.3 billion years old, and we have stood upon it for perhaps 1/1000th of that time. In our struggle to survive upon it, we invented technology. In our struggle to apprehend it, we invented, quite recently, the scientific method.
+
+This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of, filled with wonders that may defy our best efforts to understand (and survive) it, for aeons to come.
+
+I hope you like it.
+
+-- Alan Canon
+Louisville, Kentucky. 
