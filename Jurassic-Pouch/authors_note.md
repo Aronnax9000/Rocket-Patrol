@@ -12,7 +12,7 @@ We are even limited by the expanse of our own solar system, boldly explored in f
 
 What's left? Our own planet, spinning in space. It is more than four billion years old. Life emerged in splendor pretty much as soon as it could have. We ourselves have stood upon it for less than a thousandth of that time. In our struggle to survive upon this planet, we invented technology. In our struggle to apprehend the world, we invented, proportionately recently, the scientific method.
 
-This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of. It is our Pale Blue Dot, filled with wonders that continue to defy our best efforts to understand (and survive) it. At the same time, we leave our marks on this Earth, and this is a story about coming to understand and survive that, too.
+This is a story of the practical application of science in the exploration of a planetary body, the Earth. In all the Universe, it is the most interesting planet that I know of. It is our Pale Blue Dot, filled with wonders that continue to defy our best efforts to understand (and survive) it. We leave marks on this Earth. This is a story about coming to grips with that, too.
 
 Captain Bender and crew find themselves exploring an exotic alien world, with "splendor beyond compare" (Porco). It just happens to be the planet we, and they, were all born on.
 
