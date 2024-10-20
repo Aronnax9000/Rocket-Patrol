@@ -1,4 +1,6 @@
-# Dramatis Personae (in order of appearance)
+# _Dramatis Personae_ 
+
+_(in order of appearance)_
 
 ## Jo Stapledon ''(Homo sapiens sp.)'', Ph. D. 
 
