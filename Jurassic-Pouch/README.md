@@ -5,7 +5,7 @@
 
 ## Table of Contents 
 
-[''dramatis personae''](dramatis_personae.md)
+[_dramatis personae_](dramatis_personae.md)
 
 ### Part I: The Invaders
 
