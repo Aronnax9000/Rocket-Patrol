@@ -2,13 +2,15 @@
 
 _(in order of appearance)_
 
-## Jo Stapledon ''(Homo sapiens sp.)'', Ph. D. 
+## Jo Stapledon, Ph. D. 
 
 Australia's most celebrated marsupial scientist, with a specialization in Kangaroo and allied species.
 
-## Fusion the Horse ''(Artyriodactlus)''
+## Fusion the Horse (Dickin Medal)
 
-A Horse. Highly food motivated, like Gurgi in the Book of Three. Cunning and inventive, but it's all about getting those oats. Also based on the horse and dog Top from the Jules Verne novel Invasion of the Sea. 
+Horse. Highly food motivated. Cunning and inventive, helpful when necessary, but it's all about getting those oats. Fusion considers themself as Chaotic Good and is frustrated that they only manage to come off as Lawful Good to the humans around them.
+
+The food motivation and overall affability is down to Gurgi in the Book of Three. Also based on the horse and dog Top from the Jules Verne novel Invasion of the Sea. 
 
 ## Captain MaryLiz ("Cap") Bender
 
