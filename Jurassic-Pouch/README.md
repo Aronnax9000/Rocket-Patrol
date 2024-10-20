@@ -4,6 +4,9 @@
 - [Author's Note](authors_note.md)
 
 ## Table of Contents 
+
+[''dramatis personae''](dramatis_personae.md)
+
 ### Part I: The Invaders
 
 - [Chapter One: A Visitor from the Sky](ch01.md)
