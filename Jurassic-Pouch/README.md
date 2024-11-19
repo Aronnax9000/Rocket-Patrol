@@ -7,6 +7,9 @@
 
 [_dramatis personae_](dramatis_personae.md)
 
+[Dedication]
+(dedication.md)
+
 ### Part I: The Invaders
 
 - [Chapter One: A Visitor from the Sky](ch01.md)
