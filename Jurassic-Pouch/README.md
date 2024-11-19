@@ -5,10 +5,9 @@
 
 ## Table of Contents 
 
-[_dramatis personae_](dramatis_personae.md)
+- [_dramatis personae_](dramatis_personae.md)
 
-[Dedication]
-(dedication.md)
+- [Dedication](dedication.md)
 
 ### Part I: The Invaders
 
