@@ -4,4 +4,4 @@ _Zoe_
 
 _and_
 
-_the future Zoe will see.
+_the future they'll see._
