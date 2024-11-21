@@ -29,10 +29,10 @@
 - [Chapter Sixteen: Earth Under the Macropods](ch16.md)
 - [Chapter Seventeen: The Blue Helmets](ch17.md)
 - [Chapter Eighteen: The Isle of Youth](ch18.md)
+- [Chapter Nineteen: FOXP2](ch19.md)
 
 ### Part II: The Caves of Yucatán
 
-- [Chapter Nineteen: The Gamers of Switten](ch19.md)
 - [Chapter Twenty: The Cloister Cluster](ch20.md)
 - [Chapter Twenty-One: Initiative](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
