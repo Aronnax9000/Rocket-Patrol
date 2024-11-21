@@ -22,8 +22,10 @@ The Rocket Ranch's large animal veterinarian, and part time electrician.
 
 An animal lover from birth, in their teenage years, Francis volunteered at an animal shelter before persuing a degree (never completed) in Electrical Engineering. 
 
-Based on the real life ethologist Temple Grandin, the fictional character of Dr. Marian Lazarus in the excellent 1981 film Outland (who is in turn probably based on the corresponding character in High Noon), and Fran Blanche of FranLab (Philadelphia).
+Based on the real life ethologist Temple Grandin, the fictional character of Dr. Marian Lazarus in the excellent 1981 film Outland (who is in turn probably based on the corresponding character in High Noon), Fran Blanche of FranLab (Philadelphia). The Doctor McCoy of the piece.
 
 
+# Merl
 
+The chief ranch hand, effectively Bender's first officer, but day to day reports to Frances since Bender is in space so often. Not a Surfer, Merl's car broke down outside the ranch during a cross country vision quest, and Merl took it as a sign to stay. Once capped a leaking undersea oil well using nukes, but none of the other characters know that. Based in part on Clancy Brown's portrayal of  Rawhide in "The Adventures of Buckaroo Banzai: Across the Eighth Dimension (1984). Merl isn't afraid to ask a simple question that more often than not gets the academics of the team (i.e., almost everybody else) out of a rut and into orthogonal thinking. 
 
