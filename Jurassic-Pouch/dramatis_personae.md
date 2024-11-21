@@ -33,3 +33,13 @@ The chief ranch hand, effectively Bender's first officer, but day to day reports
 ## Varley and Cass
 
 Ex students of Frances' from the latter's days as a professor at Texas A&M. Varley is post-doc, and Cass is a graduate student, but Varley is an ethologist, and Cass's skills in genome analysis and population genetics mean that Varley is happy to sit at Cass's feet for the duration, as Feynman did when he apprenticed himself to biologists. A bit older than Cass, Varley can be overprotective of Cass, as a junior colleague, and bends over backwards to ensure that Cass retains academic priority for any discovery they make together (Hoyle and Burnell).
+
+## Feliz
+
+## The Perrera-Pazes.
+
+## Agent Jane and UNESCO: The Blue Helmets
+
+In the Star Trekky world of the Rocket Ranch, public wildlife management has become a globally managed affair, and the United Nations Educational, Scientific and Cultural Organization has absolute, Gort-like jurisdiction in the protection and conservation of the planet's natural resources.
+
+Agent Jane is a career lifer. In Jane's career, one learns secrets, not because of reasons of international espionage. Secrecy is a curated resource in the protection of natural areas. Information about a resource may come from non-public sources, and an organization like UNESCO guards tjhe integrity sources with da Vinci Code like discipline. If they don't, they'll never be trusted with another secret again.
