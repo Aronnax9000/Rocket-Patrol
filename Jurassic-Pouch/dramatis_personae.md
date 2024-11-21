@@ -24,6 +24,7 @@ An animal lover from birth, in their teenage years, Francis volunteered at an an
 
 Based on the real life ethologist Temple Grandin, the fictional character of Dr. Marian Lazarus in the excellent 1981 film Outland (who is in turn probably based on the corresponding character in High Noon), Fran Blanche of FranLab (Philadelphia). The Doctor McCoy of the piece.
 
+Frances could care less, these days, about electrical engineering, preferring to manage the Ranch's horses and other animals, but refuses to allow any licensed contractor onto the Rocket Ranch, because Frances has the Rocket Ranch wired and networked according to specific needs of the entire team, and any outside contractor would only screw it up. Chews a strand of 14 gauge PVC wire insulation instead of a piece of straw.
 
 # Merl
 
