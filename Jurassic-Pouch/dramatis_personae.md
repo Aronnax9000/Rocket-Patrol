@@ -26,7 +26,7 @@ Based on the real life ethologist Temple Grandin, the fictional character of Dr.
 
 Frances could care less, these days, about electrical engineering, preferring to manage the Ranch's horses and other animals, but refuses to allow any licensed contractor onto the Rocket Ranch, because Frances has the Rocket Ranch wired and networked according to specific needs of the entire team, and any outside contractor would only screw it up. Chews a strand of 14 gauge PVC wire insulation instead of a piece of straw.
 
-# Merl
+## Merl
 
 The chief ranch hand, effectively Bender's first officer, but day to day reports to Frances since Bender is in space so often. Not a Surfer, Merl's car broke down outside the ranch during a cross country vision quest, and Merl took it as a sign to stay. Once capped a leaking undersea oil well using nukes, but none of the other characters know that. Based in part on Clancy Brown's portrayal of  Rawhide in "The Adventures of Buckaroo Banzai: Across the Eighth Dimension (1984). Merl isn't afraid to ask a simple question that more often than not gets the academics of the team (i.e., almost everybody else) out of a rut and into orthogonal thinking. Like the Hong Kong Cavaliers, Merl's true identity is shrouded in mystery, mostly because it never occurs to anyone to ask.
 
