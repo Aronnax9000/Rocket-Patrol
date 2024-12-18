@@ -17,6 +17,3 @@ This is a story of the practical application of science in the exploration of a 
 Captain Bender and crew find themselves exploring an exotic alien world, with "splendor beyond compare" (Porco). It just happens to be the planet we, and they, were all born on.
 
 I hope you like it.
-
-Alan Canon  
-Louisville, Kentucky. 
