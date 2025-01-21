@@ -47,4 +47,5 @@
 
 ### Part III: Tomb of the Satellites
 
+- [Chapter Thirty-One: The Road Trip](ch31.md)
 - [Chapter Forty-Two: Beneath the ISS](ch42.md)
