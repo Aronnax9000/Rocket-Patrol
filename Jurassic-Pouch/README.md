@@ -33,12 +33,12 @@
 
 ### Part II: The Caves of Yucatán
 
-- [Chapter Twenty: ](ch20.md)
-- [Chapter Twenty-One: ](ch21.md)
+- [Chapter Twenty: The *Marcel Loubens*](ch20.md)
+- [Chapter Twenty-One: *Le Garage*](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
 - [Chapter Twenty-Three: ](ch23.md)
-- [Chapter Twenty-Four: The *Marcel Loubens*](ch24.md)
-- [Chapter Twenty-Five: *Le Garage*](ch25.md)
+- [Chapter Twenty-Four: ](ch24.md)
+- [Chapter Twenty-Five: ](ch25.md)
 - [Chapter Twenty-Six: The Dry Bones](ch26.md)
 - [Chapter Twenty-Seven: FOXP2](ch27.md)
 - [Chapter Twenty-Eight: ](ch28.md)
