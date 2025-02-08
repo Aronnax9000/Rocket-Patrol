@@ -29,14 +29,14 @@
 - [Chapter Sixteen: Earth Under the Macropods](ch16.md)
 - [Chapter Seventeen: The Blue Helmets](ch17.md)
 - [Chapter Eighteen: The Isle of Youth](ch18.md)
-- [Chapter Nineteen: FOXP2](ch19.md)
+- [Chapter Nineteen: The Cavers](ch19.md)
 
 ### Part II: The Caves of Yucatán
 
 - [Chapter Twenty: ](ch20.md)
 - [Chapter Twenty-One: ](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
-- [Chapter Twenty-Three: The Cavers](ch23.md)
+- [Chapter Twenty-Three: ](ch23.md)
 - [Chapter Twenty-Four: The *Marcel Loubens*](ch24.md)
 - [Chapter Twenty-Five: *Le Garage*](ch25.md)
 - [Chapter Twenty-Six: The Dry Bones](ch26.md)
