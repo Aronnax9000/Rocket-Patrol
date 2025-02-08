@@ -1,8 +1,8 @@
 [Jurassic Pouch Part I: The Invaders](README.md)
 
-[Previous: Chapter Eighteen: The Isle of Youth](ch18.md) 
+[Previous: Chapter Twenty-Six: ](ch26.md) 
 
-# Chapter Nineteen: FOXP2
+# Chapter Twenty-Seven: FOXP2
 
 Back at the Rocket Ranch, grips unpacked, Merl, Frances, and MaryLiz settled into the settee in the dining hall. Cass crept in, followed by Varley. "We know you're exhausted, but we have stuff to show you when you're all centered and stuffs," said Cass.
 
@@ -60,5 +60,5 @@ Merl hit the obvious conclusion. "They didn't travel alone."
 
 "Chaperoned," sighed Frances. "Every answer brings two more questions. Some days I wish I weren't a scientist."
 
-[Next: Chapter Twenty: ](ch20.md)
+[Next: Chapter Twenty-Eight: ](ch28.md)
 
