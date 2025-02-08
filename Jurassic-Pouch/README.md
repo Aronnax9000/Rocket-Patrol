@@ -33,8 +33,8 @@
 
 ### Part II: The Caves of Yucatán
 
-- [Chapter Twenty: The Cloister Cluster](ch20.md)
-- [Chapter Twenty-One: Initiative](ch21.md)
+- [Chapter Twenty: ](ch20.md)
+- [Chapter Twenty-One: ](ch21.md)
 - [Chapter Twenty-Two: The Belt](ch22.md)
 - [Chapter Twenty-Three: The Cavers](ch23.md)
 - [Chapter Twenty-Four: The *Marcel Loubens*](ch24.md)
