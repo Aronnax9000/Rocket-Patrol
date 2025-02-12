@@ -1,9 +1,9 @@
 [Rocket Patrol Home](..)
 # Jurassic Pouch: a Captain Bender Adventure
 
-*Captain Bender, the exceptional astronaut, enjoys peace and quiet between space missions, at the Rocket Ranch, that famous place where cowpokes and aerospace engineers and surfers gather to compare notes. 
+*Captain Bender, the exceptional astronaut, enjoys peace and quiet between space missions, at the Rocket Ranch, that famous place where cowpokes and aerospace engineers and surfers gather to compare notes.*
 
-But lately, a discovery in the nearby Estuary of the Rio Grande will challenge all of the Ranchers, to find the clues to a mystery tens of millions of years in the making.....*
+*Recently, a discovery in the nearby Estuary of the Rio Grande will challenge Bender, and the rest of the Ranchers, to find the clues to unravel a mystery tens of millions of years in the making.....*
 
 - [Author's Note](authors_note.md)
 
