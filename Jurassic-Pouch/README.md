@@ -21,7 +21,7 @@
 - [Chapter Eight: Wallab-Eve](ch08.md)
 - [Chapter Nine: In the Wind](ch09.md)
 - [Chapter Ten: The Ghosts of Faro Bagdad](ch10.md)
-- [Chapter Eleven: Mérida](ch11)
+- [Chapter Eleven: Mérida](ch11.md)
 - [Chapter Twelve: The Yucatán Express](ch12.md)
 - [Chapter Thirteen: The Pool of Xblanque](ch13.md)
 - [Chapter Fourteen: The Hero Twins](ch14.md)
