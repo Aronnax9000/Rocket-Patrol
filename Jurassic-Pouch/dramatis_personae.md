@@ -16,7 +16,7 @@ The food motivation and overall affability is down to Gurgi in the Book of Three
 
 The Nancy Drew of the piece. Trained as an astronaut, Bender settled near Boca Chica spaceport for its cheap ballistic passenger flights to Kennedy Space Center, where she is often called upon to command missions into outer space. But everyone needs a hobby, so Bender purchased a dilapidated dude ranch and made it her own.
 
-## Frances Wannamaker, D. V. M. 
+## Frances Wanamaker, D. V. M. 
 
 The Rocket Ranch's large animal veterinarian, and part time electrician.
 
