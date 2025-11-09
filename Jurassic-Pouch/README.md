@@ -5,7 +5,7 @@
 
 *Captain Bender, the famous astronaut, and the Rocket Ranchers can't resist a mystery, especially in their own back yard!* 
 
-*Saddle up with the Rocket Ranchers as they explore their newly strange world, in the latest Captain Bender Adventure.*
+*Saddle up with the Rocket Ranchers as they explore a newly strange world, in the latest Captain Bender Adventure.*
 
 - [Author's Note](authors_note.md)
 - [Dedication](dedication.md)
