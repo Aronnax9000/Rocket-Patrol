@@ -10,14 +10,9 @@
 *Saddle up with the Rocket Ranchers as they explore their newly strange world, in the latest Captain Bender Adventure.*
 
 - [Author's Note](authors_note.md)
-
-## Table of Contents 
-
-- [_dramatis personae_](dramatis_personae.md)
-
 - [Dedication](dedication.md)
 
-### Part I: The Invaders
+## Part I: The Invaders
 
 - [Chapter One: A Visitor from the Sky](ch01.md)
 - [Chapter Two: The Poop Talk](ch02.md)
@@ -39,7 +34,7 @@
 - [Chapter Eighteen: The Isle of Youth](ch18.md)
 - [Chapter Nineteen: The Cavers](ch19.md)
 
-### Part II: The Caves of Yucatán
+## Part II: The Caves of Yucatán
 
 - [Chapter Twenty: The *Marcel Loubens*](ch20.md)
 - [Chapter Twenty-One: *Le Garage*](ch21.md)
@@ -53,7 +48,11 @@
 - [Chapter Twenty-Nine: ](ch29.md)
 - [Chapter Thirty: ](ch30.md)
 
-### Part III: Tomb of the Satellites
+## Part III: Tomb of the Satellites
 
 - [Chapter Thirty-One: The Road Trip](ch31.md)
 - [Chapter Forty-Two: Beneath the ISS](ch42.md)
+
+## Notes (Writer's Guide)
+
+- [_dramatis personae_](dramatis_personae.md)
