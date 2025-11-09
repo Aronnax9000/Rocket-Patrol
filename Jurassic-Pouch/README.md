@@ -1,8 +1,6 @@
 [Rocket Patrol Home](..)
 # Jurassic Pouch: a Captain Bender Adventure
 
-## Blurb
-
 *A mysterious discovery near the Gulf of Mexico turns the Rio Grande Valley upside down! Why are the strange creatures here? What are they doing?*
 
 *Captain Bender, the famous astronaut, and the Rocket Ranchers can't resist a mystery, especially in their own back yard!* 
